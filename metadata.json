@@ -1,0 +1,7 @@
+{
+  "name": "Jungian 8 Cognitive Functions Assessment",
+  "description": "Professional 96-question Jungian 8 Cognitive Functions assessment with Grant stack & MBTI type analysis in Cantonese, Traditional Chinese, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
